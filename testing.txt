@@ -1,4 +1,0 @@
-first commit
-second commit
-third commit
-fourth commitecho "on a dark desert highway"
